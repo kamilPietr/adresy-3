@@ -1,0 +1,35 @@
+
+body
+{
+    background-color: grey; 
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    
+}
+a:link 
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transform: none;
+}
+a:visited 
+{
+    color: #fff;
+}
+a:hover
+{
+    color: rosybrown;
+}
+h1
+{
+	font-size: 40px;
+	font-weight: 400;
+	color: #39a5f1;
+	margin-top: 45px;	
+	margin-bottom: 30px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+}
+
